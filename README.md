@@ -92,7 +92,7 @@ The system follows a structured research pipeline:
 ## Repository Structure
 
 ```bash
-EXPOSE-Fake-News-Research/
+EXPOSE-Fake-News-Detection/
 │
 ├── notebooks/ # Research notebooks
 │ ├── 01_EDA_and_Leakage_Investigation.ipynb
