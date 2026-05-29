@@ -22,22 +22,17 @@ This project investigates the problem of fake news detection using a structured 
 
 ## Problem Definition
 
-Given a news article \( x \), predict its label:
+Given a news article x, predict its label:
 
-\[
-y \in \{0, 1\}
-\]
+y ∈ {0, 1}
 
 where:
-
 - 0 → Real news  
 - 1 → Fake news  
 
 The objective is to learn a function:
 
-\[
-f(x) \rightarrow y
-\]
+f(x) → y
 
 that generalizes well across unseen samples while remaining robust to dataset artifacts and leakage.
 
